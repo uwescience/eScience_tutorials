@@ -3,7 +3,7 @@
 Links to eScience Tutorials:
 * [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
 * [Introduction to SQL and Geospatial Data Processing (DSSG)](https://uwescience.github.io/SQL-geospatial-tutorial/)
-* [Github Intermediate] (https://github.com/uwescience/git-intermediate/blob/master/instructor-notes.md)
+* [Github Intermediate](https://github.com/uwescience/git-intermediate/blob/master/instructor-notes.md)
 * [Neurohackweek Tutorials](https://neurohackweek.github.io/nhw2016/)
   * [Cython](https://neurohackweek.github.io/cython-tutorial/)
   * [Advanced Unix and Make I](https://neurohackweek.github.io/advancedunix/01-first-part/)
