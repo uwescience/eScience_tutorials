@@ -14,6 +14,7 @@ Links to eScience Tutorials:
   * [Image Processing](https://neurohackweek.github.io/image-processing/)
 * [Geohackweek Tutorials](https://geohackweek.github.io/ghw2016/)
 * [ImageXD Tutorials](https://github.com/imagexd/2017-tutorials)
-* [Python] 
-<!--Jake's class, Jake's bootcamp, SEDS-->
+* [Python Seminar 2015](http://uwescience.github.io/python-seminar-2015/seminar/) 
+* [Software Engineering for Data Scientists](http://uwseds.github.io/syllabus.html)
+
  
