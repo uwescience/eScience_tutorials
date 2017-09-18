@@ -1,4 +1,4 @@
-# eScience_tutorials
+# eScience Tutorials
 
 Links to eScience Tutorials:
 * [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
