@@ -1,3 +1,5 @@
+![](img/eScience_Logo_HR.png)
+
 # eScience Tutorials
 
 Links to eScience Tutorials:
