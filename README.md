@@ -26,7 +26,7 @@ Links to eScience Tutorials:
     * [YouTube video, part 2](https://youtu.be/ZZNtVn7-tc8)
     * [YouTube video, part 3](https://youtu.be/mLR86HJ0ZMw)
   * [Multidimensional Arrays](https://github.com/geohackweek/tutorial_contents/blob/master/nDarrays/notebooks/ndarrays_intro.ipynb)
-    *[YouTube video](https://youtu.be/I1OLxiVXcxc)
+    * [YouTube video](https://youtu.be/I1OLxiVXcxc)
   * [Cartographic Methods](presentations/CartoLicense_ghw2017.pdf)
   * [Reproducible Research](presentations/Reproducibility_ghw2017.pdf)
 * [ImageXD Tutorials](https://github.com/imagexd/2017-tutorials)
