@@ -15,6 +15,7 @@ Links to eScience Tutorials:
   * [Software Testing for Scientists](https://neurohackweek.github.io/software-testing-for-scientists/)
   * [Docker for Scientists](https://neurohackweek.github.io/docker-for-scientists/)
   * [Image Processing](https://neurohackweek.github.io/image-processing/)
+  * [Videos from Neurohackweek 2017](https://www.youtube.com/playlist?list=PLA6PlfxWZPLTLJ2qTN9enG0tkizpmwWaq)
 * [Geohackweek Tutorials](https://github.com/geohackweek/tutorial_contents)
   * [Data Sharing and Collaboration Tools](https://geohackweek.github.io/Introductory/)
   * [running Jupyter Notebooks locally](https://github.com/geohackweek/ghw2017/wiki/Running-Jupyter-Notebooks-Locally)
